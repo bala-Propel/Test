@@ -1,6 +1,6 @@
 <?php
 
-namespace Propel\Wfm\Controller;
+namespace Propel\wfm\Controller;
 
 class wfmActivity
 {
