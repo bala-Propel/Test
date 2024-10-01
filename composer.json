@@ -1,0 +1,16 @@
+{
+    "name": "propel/wfm",
+    "description": "this propel wfm pacakage",
+    "autoload": {
+        "psr-4": {
+            "Propel\\Wfm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bala-Propel",
+            "email": "balamurugan@propelsoft.in"
+        }
+    ],
+    "require": {}
+}
