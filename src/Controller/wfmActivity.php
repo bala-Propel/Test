@@ -1,11 +1,11 @@
 <?php
 
-namespace propel\Controller;
+namespace Propel\Wfm\Controller;
 
 class wfmActivity
 {
-    public function test()
+    public function test ()
     {
-        return "Test Finished";
+        return "test complete";
     }
 }
